@@ -1,6 +1,6 @@
 title: Yujung Kim
-description: Hello, I'm Yujung
-site_title: '@Yujxxng'
+description: Software Engineer, Game Developer
+site_title: '@Yujxxng Portfolio'
 
 # Build settings
 markdown: kramdown
@@ -15,7 +15,7 @@ email: ujungg3@gmail.com
 #reddit_username: abhn
 
 # absolute or relative
-#profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/pp.png
 
 # Google Analytics ID
 google_analytics: 
